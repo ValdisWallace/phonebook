@@ -1,6 +1,6 @@
 ### Создать базу данных Postgresql
 ### В папке phonebook\src\main\resources настроить подключения к базе данных в файле application.properties и выпольнить скрипт для создания таблиц initDB.sql и наполнения populateDB.sql
-### Создать jar файл с помощью mvn -package
+### Создать jar файл с помощью mvn package
 ### запустить jar файл
 
 ### curl samples (application deployed in application context `employees`).
