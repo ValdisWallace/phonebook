@@ -19,7 +19,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <downloadSources>true</downloadSources>
         <downloadJavadocs>true</downloadJavadocs>
-        <hibernate.version>5.4.3.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <hibernate-validator.version>6.0.17.Final</hibernate-validator.version>
         <junit.jupiter.version>5.3.2</junit.jupiter.version>
     </properties>
